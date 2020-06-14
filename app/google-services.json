@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680925215186",
+    "firebase_url": "https://six-feet-apart-54e17.firebaseio.com",
+    "project_id": "six-feet-apart-54e17",
+    "storage_bucket": "six-feet-apart-54e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680925215186:android:70c8348fe587435c13700b",
+        "android_client_info": {
+          "package_name": "com.example.sixfeetapart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680925215186-j87mlpga3plpldjqc39814o294abefvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sixfeetapart",
+            "certificate_hash": "0dfb584f1e1db9f30c4d13a51d8304ada81b1419"
+          }
+        },
+        {
+          "client_id": "680925215186-3peklavri8kqg0bkemunfnbmdvj2tkm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgJonJalWS6fcMzxz2eh9XP7Fx0XfQZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680925215186-3peklavri8kqg0bkemunfnbmdvj2tkm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
