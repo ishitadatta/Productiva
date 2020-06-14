@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+<!--    <item-->
+<!--        android:id="@+id/action_settings"-->
+<!--        android:orderInCategory="100"-->
+<!--        android:title="Help"-->
+<!--        app:showAsAction="never" />-->
+    <item android:id="@+id/covupdate"
+        android:title="Covid Updates"
+        android:icon="@drawable/updates"
+        />
+    <item android:id="@+id/geofire"
+        android:title="Location"
+        android:icon="@drawable/geofire"/>
+
+
+<!--    <Button-->
+<!--        android:id="@+id/geofire"-->
+<!--        android:layout_width="301dp"-->
+<!--        android:layout_height="56dp"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_marginLeft="45dp"-->
+<!--        android:layout_marginTop="569dp"-->
+<!--        android:background="@drawable/rectangle_1"-->
+<!--        android:elevation="16dp"-->
+<!--        android:text="@string/sign_in"-->
+<!--        android:textAppearance="@style/sign_in"-->
+<!--        tools:ignore="MissingConstraints"-->
+<!--        tools:layout_editor_absoluteX="39dp"-->
+<!--        tools:layout_editor_absoluteY="554dp" />-->
+    <item android:id="@+id/proximity"
+        android:title="Proximity"
+        android:icon="@drawable/proximity"
+        />
+</menu>

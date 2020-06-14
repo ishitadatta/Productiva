@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/start"
+    tools:context=".StartActivity">
+
+
+
+
+<!--    <View-->
+<!--        android:id="@+id/ellipse_3"-->
+<!--        android:layout_width="571dp"-->
+<!--        android:layout_height="575dp"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:background="@drawable/ellipse_3"-->
+<!--        tools:layout_editor_absoluteX="-61dp"-->
+<!--        tools:layout_editor_absoluteY="-100dp"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <View-->
+<!--        android:id="@+id/ellipse_2"-->
+<!--        android:layout_width="805dp"-->
+<!--        android:layout_height="794dp"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:background="@drawable/ellipse_2"-->
+<!--        tools:layout_editor_absoluteX="-390dp"-->
+<!--        tools:layout_editor_absoluteY="-346dp"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <View-->
+<!--        android:id="@+id/ellipse_1"-->
+<!--        android:layout_width="462dp"-->
+<!--        android:layout_height="457dp"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:background="@drawable/ellipse_1"-->
+<!--        tools:layout_editor_absoluteX="-185dp"-->
+<!--        tools:layout_editor_absoluteY="-133dp"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/welcome"-->
+<!--        android:layout_width="275dp"-->
+<!--        android:layout_height="59dp"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:gravity="top"-->
+<!--        android:text="@string/welcome"-->
+<!--        android:textAppearance="@style/welcome"-->
+<!--        tools:ignore="MissingConstraints"-->
+<!--        tools:layout_editor_absoluteX="50dp"-->
+<!--        tools:layout_editor_absoluteY="148dp" />-->
+
+    <Button
+        android:id="@+id/loginbtn"
+        android:layout_width="301dp"
+        android:layout_height="56dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="569dp"
+        android:background="@drawable/rectangle_1"
+        android:elevation="16dp"
+        android:text="@string/sign_in"
+        android:textAppearance="@style/sign_in"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="554dp" />
+
+    <Button
+        android:id="@+id/signupbtn"
+        android:layout_width="314dp"
+        android:layout_height="62dp"
+        android:layout_below="@+id/loginbtn"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="19dp"
+        android:background="@drawable/input_design"
+        android:elevation="16dp"
+        android:padding="20dp"
+        android:text="Join Now"
+        android:textAllCaps="false"
+        android:textAppearance="@style/sign_in"
+        android:textColor="#4caf50"
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="667dp" />
+
+</RelativeLayout>
