@@ -1,5 +1,5 @@
 # Productiva
-Productiva is an Android application aimed at giving a working employee a resourcefulness, determination and productivity boost in office spaces by creating a more motivating and holistic environment using Geofencing and BLE technoology. This project was made as part a project prototype for the Hackathon Decypher : A Better Tomorrow 
+Productiva is an Android application aimed at giving a working employee a resourcefulness, determination and productivity boost in office spaces by creating a more motivating and holistic environment using Geofencing and BLE technoology. This project was made as part of a project prototype for the Hackathon Decypher : A Better Tomorrow 
 
 ## Project Description
 * The “What”: Reduced productivity and morale, and possibly mental health related issues that may be observed in employees, which may affect performance and resourcefulness. Transition back into a professional environment back from the casual comfort provided by WFH after COVID-19 can tend to be demotivating and monotonous.
